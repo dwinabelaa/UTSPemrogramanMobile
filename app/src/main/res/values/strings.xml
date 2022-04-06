@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Router</string>
+    <string name="teknologi1">Router Wifi Netgear</string>
+    <string name="teknologi2">Router Wifi Huawei</string>
+    <string name="teknologi3">Router Wireless TP-Link</string>
+    <string name="teknologi4">Router Wifi D-Link</string>
+    <string name="teknologi5">Router Wifi Tenda</string>
+    <string name="teknologi6">Router Wifi Xiaomi</string>
+    <string name="teknologi7">Router Wifi Asus</string>
+    <string name="teknologi8">Router Wifi Trendnet</string>
+    <string name="teknologi9">Router Wifi Linksys</string>
+    <string name="teknologi10">Router Wifi Synology</string>
+    <string name="teknologi11">Google Nest Wifi Router</string>
+    <string name="teknologi12">Router Wifi Totolink</string>
+</resources>
